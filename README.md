@@ -91,8 +91,5 @@ Three different clustering algorithms were used and evaluated: **K-Means**, **Ga
    
    ![GMM Clusters](images/gmm_clusters.png)
 
-3. **DBSCAN Clustering (Ignoring Noise)**:
-   
-   ![DBSCAN Clusters](images/dbscan_clusters.png)
 
 
